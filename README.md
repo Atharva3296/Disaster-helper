@@ -1,5 +1,5 @@
 #thanks to 
-https://github.com/Atharva3296
+https://github.com/Aakash17x08
 # Overview
 This is a basic Node.js application that uses the Express framework to create a server for user registration and login functionality. It utilizes EJS (Embedded JavaScript) as the view engine for rendering HTML templates and bcrypt for password hashing.
 
@@ -178,3 +178,4 @@ app.listen(port, () => {
 - **bcrypt** is employed for hashing passwords to securely store them in the database.
 - **EJS** is used as the view engine for rendering templates (login, signup, and home pages).
 - **MongoDB** (or any other database) is assumed to handle data persistence for user accounts.
+
